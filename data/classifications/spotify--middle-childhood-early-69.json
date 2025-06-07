@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-BfoiWhBKwWqt9LFR18Qp5f0QSUVzF",
+  "object": "chat.completion",
+  "created": 1749306104,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"tool_id\": \"001\",\n  \"tool_name\": \"Spotify\",\n  \"age_stage\": \"Middle Childhood – Early (6–9)\",\n  \"scores\": {\n    \"intent\": \"Engagement Maximisation\",\n    \"feedback_structure\": \"Adaptive\",\n    \"scale_of_human_impact\": \"Influencing Perception\",\n    \"interpretability\": \"Opaque but Explainable\",\n    \"developmental_alignment\": \"Mildly Misaligned\",\n    \"data_exposure_retention\": \"Persistent (user-linked)\",\n    \"exposure_likelihood.score\": \"Moderate\"\n  },\n  \"labels\": [\n    \"Misaligned\"\n  ],\n  \"tags\": [\n    \"Institutional Gatekeeper\"\n  ],\n  \"summary_guidance\": \"Spotify's algorithm, while opaque, is explainable and primarily aims to maximise user engagement. However, its developmental alignment is mildly misaligned for the age group of 6-9 years, and the persistent user-linked data retention may raise privacy concerns. The platform's adaptive feedback structure and its role as an institutional gatekeeper also warrant attention.\",\n  \"last_updated\": \"2022-03-01\"\n}",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 391,
+    "completion_tokens": 240,
+    "total_tokens": 631,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}
