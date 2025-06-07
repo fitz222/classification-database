@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-Bfnh76txMlSKrRnM8Iy87o6pc3Yph",
+  "object": "chat.completion",
+  "created": 1749302173,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"tool_id\": \"001\",\n  \"tool_name\": \"TikTok\",\n  \"age_stage\": \"Adulthood (26–54)\",\n  \"scores\": {\n    \"intent\": \"Engagement Maximisation\",\n    \"feedback_structure\": \"Self-Reinforcing + Escalating\",\n    \"scale_of_human_impact\": \"Behaviour Shaping\",\n    \"interpretability\": \"Opaque but Explainable\",\n    \"developmental_alignment\": \"Mildly Misaligned\",\n    \"data_exposure_retention\": \"Cross-Contextual / Multi-System\",\n    \"exposure_likelihood.score\": \"High\"\n  },\n  \"labels\": [\n    \"Misaligned\"\n  ],\n  \"tags\": [\n    \"Institutional Gatekeeper\"\n  ],\n  \"summary_guidance\": \"TikTok's algorithm, while engaging, can lead to behavior shaping due to its self-reinforcing and escalating feedback structure. The platform's opaque but explainable interpretability and cross-contextual data retention practices may pose challenges for users in this age stage. The developmental alignment is mildly misaligned, suggesting a need for more age-appropriate content and interaction mechanisms.\",\n  \"last_updated\": \"2022-02-20\"\n}",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 392,
+    "completion_tokens": 251,
+    "total_tokens": 643,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}
