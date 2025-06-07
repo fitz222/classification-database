@@ -1,0 +1,28 @@
+{
+  "entry_id": "google-search--middle-childhood-late-10-12",
+  "tool_id": "google-search",
+  "tool_name": "Google Search",
+  "age_stage": "Middle Childhood – Late (10–12)",
+  "scores": {
+    "intent": "Relevance",
+    "feedback_structure": "Adaptive",
+    "scale_of_human_impact": "Behaviour Shaping",
+    "interpretability": "Opaque but Explainable",
+    "developmental_alignment": "Mildly Misaligned",
+    "data_exposure_retention": "Persistent (user-linked)",
+    "exposure_likelihood": {
+      "score": "High",
+      "citations": [
+        "Pew Research Center, 2023"
+      ]
+    }
+  },
+  "labels": [
+    "Misaligned"
+  ],
+  "tags": [
+    "Institutional Gatekeeper"
+  ],
+  "summary_guidance": "Google Search's Behaviour Shaping impact is significant for this age stage, as it can influence the information they access and their online behaviour. The system's adaptive feedback structure and relevance intent can make it a powerful tool for learning, but its opaque but explainable interpretability and mildly misaligned developmental alignment may pose challenges. Caregivers should monitor usage to ensure safe and appropriate interactions.",
+  "last_updated": "2025-06-07"
+}
