@@ -1,0 +1,24 @@
+{
+  "entry_id": "facebook-organic--emerging-adulthood-18-25",
+  "tool_id": "facebook-organic",
+  "tool_name": "Facebook Organic Algorithm",
+  "age_stage": "Emerging Adulthood (18\u201325)",
+  "scores": {
+    "intent": "Engagement Maximisation",
+    "feedback_structure": "Reinforcing",
+    "scale_of_human_impact": "Influencing Perception",
+    "interpretability": "Opaque but Explainable",
+    "developmental_alignment": "Mildly Misaligned",
+    "data_exposure_retention": "Cross-Contextual / Multi-System",
+    "exposure_likelihood": {
+      "score": "High",
+      "citations": [
+        "Meta Audience Insights, 2024"
+      ]
+    }
+  },
+  "labels": [],
+  "tags": [],
+  "summary_guidance": "Users in emerging adulthood often reconfigure digital identity and social boundaries. The Facebook feed reinforces nostalgic and performative norms while algorithmically surfacing emotionally salient memories. While generally navigable, the system limits narrative control and exaggerates social consensus.",
+  "last_updated": "2025-06-07"
+}

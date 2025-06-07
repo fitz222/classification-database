@@ -1,0 +1,30 @@
+{
+  "entry_id": "tiktok--adolescence-13-17",
+  "tool_id": "tiktok",
+  "tool_name": "TikTok",
+  "age_stage": "Adolescence (13\u201317)",
+  "scores": {
+    "intent": "Engagement Maximisation",
+    "feedback_structure": "Self-Reinforcing + Escalating",
+    "scale_of_human_impact": "Life / Identity Reshaping",
+    "interpretability": "Black Box",
+    "developmental_alignment": "Strongly Misaligned",
+    "data_exposure_retention": "Cross-Contextual / Multi-System",
+    "exposure_likelihood": {
+      "score": "High",
+      "citations": [
+        "Common Sense Media, 2024",
+        "Ofcom Children and Media Report, 2023"
+      ]
+    }
+  },
+  "labels": [
+    "Strong Misaligned"
+  ],
+  "tags": [
+    "Anthropomorphisation Risk",
+    "Extreme Structural Vulnerability"
+  ],
+  "summary_guidance": "TikTok\u2019s immersive identity loops, filtered social mirrors, and opaque emotional targeting systems deeply influence adolescent cognition and self-concept.",
+  "last_updated": "2025-06-05"
+}
