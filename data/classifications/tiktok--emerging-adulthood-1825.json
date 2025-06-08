@@ -1,0 +1,24 @@
+{
+  "entry_id": "tiktok--emerging-adulthood-18-25",
+  "tool_id": "tiktok",
+  "tool_name": "TikTok",
+  "age_stage": "Emerging Adulthood (18–25)",
+  "scores": {
+    "intent": "Engagement Maximisation",
+    "feedback_structure": "Self-Reinforcing + Escalating",
+    "scale_of_human_impact": "Behaviour Shaping",
+    "interpretability": "Black Box",
+    "developmental_alignment": "Mildly Misaligned",
+    "data_exposure_retention": "Persistent (user-linked)",
+    "exposure_likelihood": {
+      "score": "High",
+      "citations": [
+        "Pew Research Center, 2025"
+      ]
+    }
+  },
+  "labels": [],
+  "tags": [],
+  "summary_guidance": "The most developmentally impactful dimension of TikTok is its engagement maximisation intent, which can lead to excessive use and potential addiction. The platform's self-reinforcing and escalating feedback structure can result in users being exposed to increasingly extreme content, potentially shaping their behaviour. The platform's black box interpretability and persistent data retention practices raise concerns about privacy and the control users have over their online experiences.",
+  "last_updated": "2025-06-08"
+}
