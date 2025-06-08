@@ -1,0 +1,26 @@
+{
+  "entry_id": "x--older-adulthood-55",
+  "tool_id": "x",
+  "tool_name": "X",
+  "age_stage": "Older Adulthood (55+)",
+  "scores": {
+    "intent": "Utility",
+    "feedback_structure": "Reactive",
+    "scale_of_human_impact": "Influencing Perception",
+    "interpretability": "Semi-Interpretable",
+    "developmental_alignment": "Developmentally Aligned",
+    "data_exposure_retention": "Context-Limited",
+    "exposure_likelihood": {
+      "score": "Moderate",
+      "citations": [
+        "Pew Research Center, 2023"
+      ]
+    }
+  },
+  "labels": [],
+  "tags": [
+    "Institutional Gatekeeper"
+  ],
+  "summary_guidance": "The system's utility intent is well-aligned with the needs of users in the Older Adulthood (55+) stage. However, its reactive feedback structure and semi-interpretable nature may pose challenges for some users. The system's moderate exposure likelihood suggests that it is not overly invasive, but users should still be aware of its context-limited data retention practices.",
+  "last_updated": "2025-06-08"
+}
