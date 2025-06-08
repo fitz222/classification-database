@@ -1,0 +1,28 @@
+{
+  "entry_id": "pinterest--middle-childhood-early-6-9",
+  "tool_id": "pinterest",
+  "tool_name": "Pinterest",
+  "age_stage": "Middle Childhood – Early (6–9)",
+  "scores": {
+    "intent": "Engagement Maximisation",
+    "feedback_structure": "Reactive",
+    "scale_of_human_impact": "Influencing Perception",
+    "interpretability": "Opaque but Explainable",
+    "developmental_alignment": "Mildly Misaligned",
+    "data_exposure_retention": "Persistent (user-linked)",
+    "exposure_likelihood": {
+      "score": "Moderate",
+      "citations": [
+        "Pew Research Center, 2023"
+      ]
+    }
+  },
+  "labels": [
+    "Misaligned"
+  ],
+  "tags": [
+    "Institutional Gatekeeper"
+  ],
+  "summary_guidance": "The most developmentally impactful dimension of Pinterest for this age stage is its intent to maximise engagement. This can lead to excessive screen time and potential exposure to inappropriate content, as the platform's content curation and recommendation algorithms are not specifically designed for this age group. Furthermore, the platform's data retention policy could lead to privacy concerns, as it retains user-linked data persistently.",
+  "last_updated": "2025-06-08"
+}
