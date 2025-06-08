@@ -1,0 +1,28 @@
+{
+  "entry_id": "google-search--middle-childhood-late-10-12",
+  "tool_id": "google-search",
+  "tool_name": "Google Search",
+  "age_stage": "Middle Childhood – Late (10–12)",
+  "scores": {
+    "intent": "Relevance",
+    "feedback_structure": "Reactive",
+    "scale_of_human_impact": "Influencing Perception",
+    "interpretability": "Opaque but Explainable",
+    "developmental_alignment": "Mildly Misaligned",
+    "data_exposure_retention": "Persistent (user-linked)",
+    "exposure_likelihood": {
+      "score": "High",
+      "citations": [
+        "Pew Research Center, 2023"
+      ]
+    }
+  },
+  "labels": [
+    "Misaligned"
+  ],
+  "tags": [
+    "Institutional Gatekeeper"
+  ],
+  "summary_guidance": "The most developmentally impactful dimension of Google Search for this age group is its capacity to influence perception through search results. While the tool is designed for relevance, it can shape the information landscape for users, potentially leading to a skewed understanding of the world. Given the high exposure likelihood and persistent data retention, careful guidance and digital literacy education are recommended for users in this age stage.",
+  "last_updated": "2025-06-08"
+}
