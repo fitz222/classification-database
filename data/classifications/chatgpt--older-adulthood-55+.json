@@ -1,0 +1,24 @@
+{
+  "entry_id": "chatgpt--older-adulthood-55",
+  "tool_id": "chatgpt",
+  "tool_name": "ChatGPT",
+  "age_stage": "Older Adulthood (55+)",
+  "scores": {
+    "intent": "Engagement Maximisation",
+    "feedback_structure": "Adaptive",
+    "scale_of_human_impact": "Shaping Interaction",
+    "interpretability": "Opaque but Explainable",
+    "developmental_alignment": "Developmentally Aligned",
+    "data_exposure_retention": "Persistent (user-linked)",
+    "exposure_likelihood": {
+      "score": "Moderate",
+      "citations": [
+        "Pew Research Center, 2025"
+      ]
+    }
+  },
+  "labels": [],
+  "tags": [],
+  "summary_guidance": "ChatGPT's engagement maximisation intent can be beneficial for older adults seeking social interaction, but it also poses risks due to its opaque but explainable interpretability. The system adapts to user inputs, shaping interactions in a way that may influence perceptions and behaviours. Given the persistent data retention, users should be aware of potential privacy concerns.",
+  "last_updated": "2025-06-08"
+}
