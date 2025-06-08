@@ -1,0 +1,26 @@
+{
+  "entry_id": "x--emerging-adulthood-18-25",
+  "tool_id": "x",
+  "tool_name": "X",
+  "age_stage": "Emerging Adulthood (18–25)",
+  "scores": {
+    "intent": "Engagement Maximisation",
+    "feedback_structure": "Reactive",
+    "scale_of_human_impact": "Influencing Perception",
+    "interpretability": "Semi-Interpretable",
+    "developmental_alignment": "Developmentally Aligned",
+    "data_exposure_retention": "Persistent (user-linked)",
+    "exposure_likelihood": {
+      "score": "Moderate",
+      "citations": [
+        "Pew Research Center, 2023"
+      ]
+    }
+  },
+  "labels": [],
+  "tags": [
+    "Institutional Gatekeeper"
+  ],
+  "summary_guidance": "The system's Engagement Maximisation intent is most impactful at this developmental stage, influencing perceptions and potentially shaping user behaviour. X's reactive feedback structure and semi-interpretable nature may encourage user engagement but also pose challenges for understanding the system's decision-making process. The persistent data retention policy requires careful consideration of privacy and data security issues.",
+  "last_updated": "2025-06-08"
+}
