@@ -1,0 +1,24 @@
+{
+  "entry_id": "chatgpt--adulthood-26-54",
+  "tool_id": "chatgpt",
+  "tool_name": "ChatGPT",
+  "age_stage": "Adulthood (26–54)",
+  "scores": {
+    "intent": "Engagement Maximisation",
+    "feedback_structure": "Adaptive",
+    "scale_of_human_impact": "Shaping Interaction",
+    "interpretability": "Opaque but Explainable",
+    "developmental_alignment": "Developmentally Aligned",
+    "data_exposure_retention": "Persistent (user-linked)",
+    "exposure_likelihood": {
+      "score": "High",
+      "citations": [
+        "Pew Research Center, 2023"
+      ]
+    }
+  },
+  "labels": [],
+  "tags": [],
+  "summary_guidance": "ChatGPT's most developmentally impactful dimension is its intent to maximise engagement, which aligns with the cognitive and social needs of adults. However, its opaque but explainable interpretability and persistent data retention may raise privacy concerns. Given its high exposure likelihood, users should be aware of the potential influence on their interactions.",
+  "last_updated": "2025-06-08"
+}
