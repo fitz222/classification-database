@@ -1,0 +1,24 @@
+{
+  "entry_id": "minecraft--middle-childhood-early-6-9",
+  "tool_id": "minecraft",
+  "tool_name": "Minecraft",
+  "age_stage": "Middle Childhood – Early (6–9)",
+  "scores": {
+    "intent": "Engagement Maximisation",
+    "feedback_structure": "Adaptive",
+    "scale_of_human_impact": "Behaviour Shaping",
+    "interpretability": "Semi-Interpretable",
+    "developmental_alignment": "Developmentally Aligned",
+    "data_exposure_retention": "Persistent (user-linked)",
+    "exposure_likelihood": {
+      "score": "High",
+      "citations": [
+        "Pew Research Center, 2023"
+      ]
+    }
+  },
+  "labels": [],
+  "tags": [],
+  "summary_guidance": "The most developmentally impactful dimension of Minecraft for this age stage is its Behaviour Shaping scale of human impact, as it encourages creativity and problem-solving. Minecraft's adaptive feedback structure and engagement maximisation intent make it highly engaging for children in the early stages of middle childhood, fostering a sense of achievement and autonomy. However, its persistent data retention and high exposure likelihood necessitate parental guidance and privacy safeguards.",
+  "last_updated": "2025-06-08"
+}
