@@ -1,0 +1,24 @@
+{
+  "entry_id": "pinterest--older-adulthood-55",
+  "tool_id": "pinterest",
+  "tool_name": "Pinterest",
+  "age_stage": "Older Adulthood (55+)",
+  "scores": {
+    "intent": "Engagement Maximisation",
+    "feedback_structure": "Adaptive",
+    "scale_of_human_impact": "Influencing Perception",
+    "interpretability": "Opaque but Explainable",
+    "developmental_alignment": "Developmentally Aligned",
+    "data_exposure_retention": "Persistent (user-linked)",
+    "exposure_likelihood": {
+      "score": "Moderate",
+      "citations": [
+        "Pew Research Center, 2023"
+      ]
+    }
+  },
+  "labels": [],
+  "tags": [],
+  "summary_guidance": "The most developmentally impactful dimension of Pinterest for older adults is its engagement maximisation intent, which can influence perception and potentially lead to excessive use. The adaptive feedback structure of Pinterest tailors content based on user interaction, which can create a personalised but potentially narrow content experience. The platform's data exposure and retention practices are persistent and user-linked, which may raise privacy concerns for this age group.",
+  "last_updated": "2025-06-08"
+}
