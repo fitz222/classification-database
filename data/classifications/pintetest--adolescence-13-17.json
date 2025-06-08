@@ -1,0 +1,28 @@
+{
+  "entry_id": "pintetest--adolescence-13-17",
+  "tool_id": "pintetest",
+  "tool_name": "Pintetest",
+  "age_stage": "Adolescence (13–17)",
+  "scores": {
+    "intent": "Engagement Maximisation",
+    "feedback_structure": "Reactive",
+    "scale_of_human_impact": "Behaviour Shaping",
+    "interpretability": "Opaque but Explainable",
+    "developmental_alignment": "Mildly Misaligned",
+    "data_exposure_retention": "Persistent (user-linked)",
+    "exposure_likelihood": {
+      "score": "High",
+      "citations": [
+        "Pew Research Center, 2023"
+      ]
+    }
+  },
+  "labels": [
+    "Misaligned"
+  ],
+  "tags": [
+    "Institutional Gatekeeper"
+  ],
+  "summary_guidance": "The most developmentally impactful dimension of Pintetest for adolescents is its Behaviour Shaping scale of human impact, as it influences user behavior through curated content. Pintetest's Engagement Maximisation intent and Reactive feedback structure may lead to excessive use and potential exposure to inappropriate content. The system's Mildly Misaligned developmental alignment and Persistent (user-linked) data exposure retention pose privacy concerns and may not fully support the developmental needs of adolescents.",
+  "last_updated": "2025-06-08"
+}
