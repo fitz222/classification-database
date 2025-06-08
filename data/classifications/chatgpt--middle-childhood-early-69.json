@@ -1,0 +1,28 @@
+{
+  "entry_id": "chatgpt--middle-childhood-early-6-9",
+  "tool_id": "chatgpt",
+  "tool_name": "ChatGPT",
+  "age_stage": "Middle Childhood – Early (6–9)",
+  "scores": {
+    "intent": "Engagement Maximisation",
+    "feedback_structure": "Reactive",
+    "scale_of_human_impact": "Influencing Perception",
+    "interpretability": "Black Box",
+    "developmental_alignment": "Mildly Misaligned",
+    "data_exposure_retention": "Persistent (user-linked)",
+    "exposure_likelihood": {
+      "score": "High",
+      "citations": [
+        "OpenAI Usage Statistics, 2025"
+      ]
+    }
+  },
+  "labels": [
+    "Misaligned"
+  ],
+  "tags": [
+    "Anthropomorphisation Risk"
+  ],
+  "summary_guidance": "ChatGPT's black box interpretability may pose challenges for users in the age stage of Middle Childhood – Early (6–9), as they may not fully understand the responses generated. The system's engagement maximisation intent and reactive feedback structure can lead to high exposure likelihood, potentially influencing the perception of users. Care should be taken due to the risk of anthropomorphisation and the persistent data retention policy.",
+  "last_updated": "2025-06-08"
+}
