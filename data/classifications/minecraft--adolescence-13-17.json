@@ -1,0 +1,24 @@
+{
+  "entry_id": "minecraft--adolescence-13-17",
+  "tool_id": "minecraft",
+  "tool_name": "Minecraft",
+  "age_stage": "Adolescence (13–17)",
+  "scores": {
+    "intent": "Engagement Maximisation",
+    "feedback_structure": "Reactive",
+    "scale_of_human_impact": "Behaviour Shaping",
+    "interpretability": "Semi-Interpretable",
+    "developmental_alignment": "Developmentally Aligned",
+    "data_exposure_retention": "Persistent (user-linked)",
+    "exposure_likelihood": {
+      "score": "High",
+      "citations": [
+        "Pew Research Center, 2023"
+      ]
+    }
+  },
+  "labels": [],
+  "tags": [],
+  "summary_guidance": "The most developmentally impactful dimension of Minecraft for adolescents is its Behaviour Shaping scale of human impact, as it encourages creativity and problem-solving. The game's Engagement Maximisation intent and Reactive feedback structure contribute to a high exposure likelihood, with the game's challenges and rewards system designed to keep users engaged. However, the Semi-Interpretable nature of the game's algorithm and its Persistent (user-linked) data exposure and retention may raise privacy concerns.",
+  "last_updated": "2025-06-08"
+}
