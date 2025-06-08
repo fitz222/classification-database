@@ -1,0 +1,28 @@
+{
+  "entry_id": "chatgpt--middle-childhood-late-10-12",
+  "tool_id": "chatgpt",
+  "tool_name": "ChatGPT",
+  "age_stage": "Middle Childhood – Late (10–12)",
+  "scores": {
+    "intent": "Engagement Maximisation",
+    "feedback_structure": "Adaptive",
+    "scale_of_human_impact": "Influencing Perception",
+    "interpretability": "Black Box",
+    "developmental_alignment": "Mildly Misaligned",
+    "data_exposure_retention": "Persistent (user-linked)",
+    "exposure_likelihood": {
+      "score": "High",
+      "citations": [
+        "Pew Research Center, 2023"
+      ]
+    }
+  },
+  "labels": [
+    "Misaligned"
+  ],
+  "tags": [
+    "Anthropomorphisation Risk"
+  ],
+  "summary_guidance": "ChatGPT's black box interpretability may pose challenges for users in the middle childhood – late (10–12) age stage to fully understand the system's responses. The system's adaptive feedback structure and engagement maximisation intent can influence the user's perception and interaction with the digital world. Caregivers should be aware of the persistent data exposure and retention, as well as the potential anthropomorphisation risk.",
+  "last_updated": "2025-06-08"
+}
