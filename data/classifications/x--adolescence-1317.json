@@ -1,0 +1,29 @@
+{
+  "entry_id": "x--adolescence-13-17",
+  "tool_id": "x",
+  "tool_name": "X",
+  "age_stage": "Adolescence (13–17)",
+  "scores": {
+    "intent": "Engagement Maximisation",
+    "feedback_structure": "Reactive",
+    "scale_of_human_impact": "Behaviour Shaping",
+    "interpretability": "Opaque but Explainable",
+    "developmental_alignment": "Mildly Misaligned",
+    "data_exposure_retention": "Persistent (user-linked)",
+    "exposure_likelihood": {
+      "score": "High",
+      "citations": [
+        "Pew Research Center, 2023"
+      ]
+    }
+  },
+  "labels": [
+    "Misaligned"
+  ],
+  "tags": [
+    "Institutional Gatekeeper",
+    "Extreme Structural Vulnerability"
+  ],
+  "summary_guidance": "The system's Behaviour Shaping impact is of significant concern for adolescents aged 13-17. The Engagement Maximisation intent combined with a Reactive feedback structure may lead to excessive screen time and potential addiction. The Mildly Misaligned developmental alignment and Opaque but Explainable interpretability could pose challenges in understanding and navigating the system effectively.",
+  "last_updated": "2025-06-08"
+}
