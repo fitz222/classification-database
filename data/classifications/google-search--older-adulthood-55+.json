@@ -1,0 +1,26 @@
+{
+  "entry_id": "google-search--older-adulthood-55",
+  "tool_id": "google-search",
+  "tool_name": "Google Search",
+  "age_stage": "Older Adulthood (55+)",
+  "scores": {
+    "intent": "Relevance",
+    "feedback_structure": "Reactive",
+    "scale_of_human_impact": "Influencing Perception",
+    "interpretability": "Opaque but Explainable",
+    "developmental_alignment": "Developmentally Aligned",
+    "data_exposure_retention": "Persistent (user-linked)",
+    "exposure_likelihood": {
+      "score": "High",
+      "citations": [
+        "Pew Research Center, 2023"
+      ]
+    }
+  },
+  "labels": [],
+  "tags": [
+    "Institutional Gatekeeper"
+  ],
+  "summary_guidance": "The most developmentally impactful dimension for Google Search in older adulthood is its intent to provide relevance, which aligns well with the cognitive capabilities and information needs of this age group. However, the system's opaque but explainable interpretability and persistent data exposure retention may pose challenges for some users, particularly those with less digital literacy or privacy concerns. As an institutional gatekeeper, Google Search plays a significant role in shaping users' online experiences and access to information.",
+  "last_updated": "2025-06-08"
+}
