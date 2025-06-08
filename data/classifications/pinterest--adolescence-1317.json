@@ -1,0 +1,28 @@
+{
+  "entry_id": "pinterest--adolescence-13-17",
+  "tool_id": "pinterest",
+  "tool_name": "pinterest",
+  "age_stage": "Adolescence (13–17)",
+  "scores": {
+    "intent": "Engagement Maximisation",
+    "feedback_structure": "Self-Reinforcing + Escalating",
+    "scale_of_human_impact": "Behaviour Shaping",
+    "interpretability": "Black Box",
+    "developmental_alignment": "Mildly Misaligned",
+    "data_exposure_retention": "Persistent (user-linked)",
+    "exposure_likelihood": {
+      "score": "High",
+      "citations": [
+        "Pew Research Center, 2023"
+      ]
+    }
+  },
+  "labels": [
+    "Misaligned"
+  ],
+  "tags": [
+    "Institutional Gatekeeper"
+  ],
+  "summary_guidance": "The most developmentally impactful dimension of Pinterest for adolescents is its intent for Engagement Maximisation, which can lead to excessive screen time and potential exposure to inappropriate content. The system's feedback structure is Self-Reinforcing + Escalating, which may encourage repeated use and habit formation. Its interpretability as a 'Black Box' and persistent data retention practices raise concerns about privacy and informed consent.",
+  "last_updated": "2025-06-08"
+}
