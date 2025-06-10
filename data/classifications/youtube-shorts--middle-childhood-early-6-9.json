@@ -1,0 +1,28 @@
+{
+  "entry_id": "youtube-shorts--middle-childhood-early-6-9",
+  "tool_id": "youtube-shorts",
+  "tool_name": "Youtube Shorts",
+  "age_stage": "Middle Childhood – Early (6–9)",
+  "scores": {
+    "intent": "Engagement Maximisation",
+    "feedback_structure": "Self-Reinforcing + Escalating",
+    "scale_of_human_impact": "Behaviour Shaping",
+    "interpretability": "Black Box",
+    "developmental_alignment": "Mildly Misaligned",
+    "data_exposure_retention": "Persistent (user-linked)",
+    "exposure_likelihood": {
+      "score": "High",
+      "citations": [
+        "Pew Research Center, 2023"
+      ]
+    }
+  },
+  "labels": [
+    "Misaligned"
+  ],
+  "tags": [
+    "Institutional Gatekeeper"
+  ],
+  "summary_guidance": "The most developmentally impactful dimension of Youtube Shorts is its Behaviour Shaping scale of human impact, which can influence the behaviour of children in this age stage. The system's Engagement Maximisation intent and Self-Reinforcing + Escalating feedback structure can lead to excessive screen time and potential exposure to inappropriate content. Given the high exposure likelihood, caregivers should monitor usage and consider implementing parental controls.",
+  "last_updated": "2025-06-10"
+}
