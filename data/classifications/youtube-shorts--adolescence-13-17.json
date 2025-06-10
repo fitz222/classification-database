@@ -1,0 +1,28 @@
+{
+  "entry_id": "youtube-shorts--adolescence-13-17",
+  "tool_id": "youtube-shorts",
+  "tool_name": "Youtube Shorts",
+  "age_stage": "Adolescence (13–17)",
+  "scores": {
+    "intent": "Engagement Maximisation",
+    "feedback_structure": "Self-Reinforcing + Escalating",
+    "scale_of_human_impact": "Behaviour Shaping",
+    "interpretability": "Opaque but Explainable",
+    "developmental_alignment": "Mildly Misaligned",
+    "data_exposure_retention": "Persistent (user-linked)",
+    "exposure_likelihood": {
+      "score": "High",
+      "citations": [
+        "Pew Research Center, 2023"
+      ]
+    }
+  },
+  "labels": [
+    "Misaligned"
+  ],
+  "tags": [
+    "Institutional Gatekeeper"
+  ],
+  "summary_guidance": "Youtube Shorts' Engagement Maximisation intent is the most developmentally impactful dimension for adolescents, potentially encouraging excessive screen time. The platform's Self-Reinforcing + Escalating feedback structure can lead to an echo chamber effect, limiting exposure to diverse content. Despite its Opaque but Explainable interpretability, the system's Mild Misalignment with adolescent developmental needs and its High exposure likelihood necessitate careful monitoring and guidance from caregivers.",
+  "last_updated": "2025-06-10"
+}
