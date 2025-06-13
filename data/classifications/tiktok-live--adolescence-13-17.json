@@ -1,0 +1,28 @@
+{
+  "entry_id": "tiktok-live--adolescence-13-17",
+  "tool_id": "tiktok-live",
+  "tool_name": "TikTok Live",
+  "age_stage": "Adolescence (13–17)",
+  "scores": {
+    "intent": "Engagement Maximisation",
+    "feedback_structure": "Self-Reinforcing + Escalating",
+    "scale_of_human_impact": "Behaviour Shaping",
+    "interpretability": "Opaque but Explainable",
+    "developmental_alignment": "Mildly Misaligned",
+    "data_exposure_retention": "Persistent (user-linked)",
+    "exposure_likelihood": {
+      "score": "High",
+      "citations": [
+        "Pew Research Center, 2023"
+      ]
+    }
+  },
+  "labels": [
+    "Misaligned"
+  ],
+  "tags": [
+    "Institutional Gatekeeper"
+  ],
+  "summary_guidance": "The most developmentally impactful dimension of TikTok Live for adolescents is its Behaviour Shaping scale of human impact, which can influence their social interactions and self-expression. The system's Engagement Maximisation intent and Self-Reinforcing + Escalating feedback structure can lead to excessive use, potentially impacting adolescents' time management and focus on other activities. Furthermore, the Mildly Misaligned developmental alignment suggests that while TikTok Live can provide a platform for creativity and connection, it may also expose adolescents to content and interactions that are not fully developmentally appropriate.",
+  "last_updated": "2025-06-13"
+}
